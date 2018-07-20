@@ -10,8 +10,7 @@
 
 @implementation IKModel
 
-
-+ (void)MyPrint:(NSString *)str
++ (void) MyPrint:(NSString *)str
 {
     NSLog(@"MyPrint %@",str);
 }

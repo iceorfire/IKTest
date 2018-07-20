@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char IKTestVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <IKTest/PublicHeader.h>
 
-#import <IKTest/IKDemo.h>
+

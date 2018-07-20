@@ -7,7 +7,6 @@
 //
 
 #import "IKDemo.h"
-#import "IKModel.h"
 
 @implementation IKDemo
 
@@ -15,5 +14,4 @@
 {
     [IKModel MyPrint:str];
 }
-
 @end

@@ -12,5 +12,4 @@
 
 + (void)MyPrint:(NSString *)str;
 
-
 @end

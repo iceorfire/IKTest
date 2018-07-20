@@ -7,10 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "IKModel.h"
+
 
 @interface IKDemo : NSObject
 
 + (void)print:(NSString *)str;
-
 
 @end
